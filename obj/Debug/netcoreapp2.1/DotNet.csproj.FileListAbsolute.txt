@@ -1,0 +1,11 @@
+/home/pruthvisiddharth/DotNet/bin/Debug/netcoreapp2.1/DotNet.deps.json
+/home/pruthvisiddharth/DotNet/bin/Debug/netcoreapp2.1/DotNet.runtimeconfig.json
+/home/pruthvisiddharth/DotNet/bin/Debug/netcoreapp2.1/DotNet.runtimeconfig.dev.json
+/home/pruthvisiddharth/DotNet/bin/Debug/netcoreapp2.1/DotNet.dll
+/home/pruthvisiddharth/DotNet/bin/Debug/netcoreapp2.1/DotNet.pdb
+/home/pruthvisiddharth/DotNet/obj/Debug/netcoreapp2.1/DotNet.csprojAssemblyReference.cache
+/home/pruthvisiddharth/DotNet/obj/Debug/netcoreapp2.1/DotNet.csproj.CoreCompileInputs.cache
+/home/pruthvisiddharth/DotNet/obj/Debug/netcoreapp2.1/DotNet.AssemblyInfoInputs.cache
+/home/pruthvisiddharth/DotNet/obj/Debug/netcoreapp2.1/DotNet.AssemblyInfo.cs
+/home/pruthvisiddharth/DotNet/obj/Debug/netcoreapp2.1/DotNet.dll
+/home/pruthvisiddharth/DotNet/obj/Debug/netcoreapp2.1/DotNet.pdb
